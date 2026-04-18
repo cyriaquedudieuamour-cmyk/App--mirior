@@ -4,7 +4,7 @@ import Head from "next/head";
 const styles = `
   @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300&family=DM+Sans:wght@300;400;500&display=swap');
 
-  * { box-sizing: border-box; margin: 0; padding: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }  
   html, body { background: #0a0a0a; height: 100%; }
 
   .mirror-app {
